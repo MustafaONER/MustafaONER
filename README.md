@@ -19,11 +19,3 @@ Ik werk graag met data om duidelijke inzichten te creëren die organisaties help
 - Data visualisatie
 
 Daarnaast heb ik ervaring met **Python, JavaScript, React, Node.js en Git/GitHub**.
-
-### 🌱 Momenteel bezig met
-
-- Mijn SQL-vaardigheden verder ontwikkelen
-- Mijn kennis van Power BI en DAX verdiepen
-- Nieuwe data-analyseprojecten opbouwen
-
-Mijn inburgering heb ik volledig afgerond. Ik heb alle examens op **B1-niveau** behaald en daarnaast al **twee examens op B2-niveau** succesvol afgerond.
