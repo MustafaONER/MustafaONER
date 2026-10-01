@@ -1,5 +1,3 @@
-# MustafaONER
-
 # Hallo, ik ben Mustafa Öner 👋
 
 ## Data Analyst | Power BI | SQL | Excel
